@@ -61,7 +61,7 @@ This tutorial will guide you through the process of configuring a simple ticketi
     - Create an agent with the "Admin" role.
     - Create another agent with the ability to "Assign + Reply" only.
 
-**BE SURE TO CREATE THE EMAIL ADDRESSES USING THE SAME EMAIL DOMAIN YOU CREATED IN STEP 14 OF THE [osTicket Installation Tutorial](https://github.com/mehmhacimic/osTicket-installation) ON MY PROFILE**
+        **BE SURE TO CREATE THE AGENT EMAIL ADDRESSES USING THE SAME EMAIL DOMAIN YOU CREATED IN STEP 14 OF THE [osTicket Installation Tutorial](https://github.com/mehmhacimic/osTicket-installation) ON MY PROFILE**
 
 6. Configure Users (customers)
     - Go to Agent Panel -> Users -> Add New.
