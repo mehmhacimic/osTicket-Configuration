@@ -88,11 +88,22 @@ This tutorial will guide you through the process of configuring a simple ticketi
 
 8. Configure Help Topics
     - Navigate to Admin Panel -> Manage -> Help Topics.
-    - Add the following help topics:
+    - Add the following help topics: 
         - Business Critical Outage (Sev-A)
         - PC Issues (Sev-B)
         - Equipment Request (Sev-B)
         - Password Reset (Sev C)
+  
+      * **Priority is not as important for this lab, just label each Help Topic whatever you think fits best** *
+
+      ![16](https://github.com/mehmhacimic/osTicket-Configuration/assets/157438082/62e22e26-3704-4b8b-853c-59338fbe8c46)
+      ![17](https://github.com/mehmhacimic/osTicket-Configuration/assets/157438082/509463d7-3e47-45c9-b5b2-bf6e066df030)
+      ![19](https://github.com/mehmhacimic/osTicket-Configuration/assets/157438082/631ef0d7-cea2-4a78-9cf5-7f8b368808eb)
+
+
+   
+
+      
 
 
 Congratulations! You have successfully configured a simple ticketing system. Feel free to customize the system further based on your specific requirements.
