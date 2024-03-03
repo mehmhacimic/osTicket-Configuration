@@ -27,3 +27,5 @@ This tutorial will guide you through the process of configuring a simple ticketi
 - Configure SLA and Help Topics
 
 <h2>Configuration Steps</h2>
+
+Congratulations! You have successfully configured a simple ticketing system. Feel free to customize the system further based on your specific requirements.
