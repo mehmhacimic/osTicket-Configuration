@@ -43,6 +43,14 @@ This tutorial will guide you through the process of configuring a simple ticketi
       ![4](https://github.com/mehmhacimic/osTicket-Configuration/assets/157438082/8b972e76-d199-4645-be82-d168a2f209b2)
       ![3](https://github.com/mehmhacimic/osTicket-Configuration/assets/157438082/bc2fc9b7-50ef-4880-be0d-d3c822ccf2b1)
 
+3. Configure Teams
+    - In the Admin Panel, navigate to Agents -> Teams.
+    - Add two teams: "Level I Support"(if not already there) and "Level II Support."
+  
+      ![5](https://github.com/mehmhacimic/osTicket-Configuration/assets/157438082/b833a7f6-1540-45a8-a240-a9eb1347b607)
+      ![6](https://github.com/mehmhacimic/osTicket-Configuration/assets/157438082/4af7ef77-24a9-40d9-ba07-a52fa18a9699)
+
+
 
 
 Congratulations! You have successfully configured a simple ticketing system. Feel free to customize the system further based on your specific requirements.
