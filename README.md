@@ -3,12 +3,8 @@
 </p>
 
 <h1>osTicket - Configuration </h1>
-This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket.<br />
+This tutorial will guide you through the process of configuring a simple ticketing system using an example list of tasks. The system includes roles, departments, teams, user settings, agents, users, SLA (Service Level Agreement), and help topics. The configuration is outlined below.<br />
 
-
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How To Configure osTicket, post-installation](https://www.youtube.com)
 
 <h2>Environments and Technologies Used</h2>
 
