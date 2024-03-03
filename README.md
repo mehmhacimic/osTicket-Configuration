@@ -71,7 +71,7 @@ This tutorial will guide you through the process of configuring a simple ticketi
 
 6. **Configure Users (customers)**
     - Go to Agent Panel -> Users -> Add New.
-    - Create two users with names of your choice.
+    - Create two users with names of your choice. 
 
       ![12](https://github.com/mehmhacimic/osTicket-Configuration/assets/157438082/9af61ae2-5bb9-45ac-90f7-9b068e4882ea)
       ![13](https://github.com/mehmhacimic/osTicket-Configuration/assets/157438082/3a78553f-d569-4fb9-90eb-5f17f7cba443)
