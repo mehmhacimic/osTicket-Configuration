@@ -26,6 +26,7 @@ This tutorial will guide you through the process of configuring a simple ticketi
 - Configure SLA and Help Topics
 
 <h2>Configuration Steps</h2>
+
 1. Configure Roles
     - Navigate to the Admin Panel.
     - Go to Agents -> Roles.
