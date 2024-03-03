@@ -79,9 +79,12 @@ This tutorial will guide you through the process of configuring a simple ticketi
 7. Configure SLA
     - In Admin Panel -> Manage -> SLA.
     - Create the following SLAs:
-        - Sev-A (1 hour, 24/7)
-        - Sev-B (4 hours, 24/7)
-        - Sev-C (8 hours, business hours)
+        - Sev-A (Grace period: 1 hour, Schedule: 24/7)
+        - Sev-B (Grace period: 4 hours, Schedule: 24/7)
+        - Sev-C (Grace period: 8 hours, Schedule: M-F, business hours)
+     
+      ![14](https://github.com/mehmhacimic/osTicket-Configuration/assets/157438082/879cf766-07a0-43fe-9454-2630c01a8819)
+      ![15](https://github.com/mehmhacimic/osTicket-Configuration/assets/157438082/0298503e-a16b-42c0-aab8-69f756c21794)
 
 8. Configure Help Topics
     - Navigate to Admin Panel -> Manage -> Help Topics.
