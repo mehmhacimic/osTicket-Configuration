@@ -107,6 +107,7 @@ This tutorial will guide you through the process of configuring a simple ticketi
 
 
 Congratulations! You have successfully configured a simple ticketing system. Feel free to customize the system further based on your specific requirements. 
+
 If you have any questions or need additional assistance, refer to the documentation of your ticketing system or reach out to me via [LinkedIn](https://www.linkedin.com/in/mehmedalijahacimic/)/email for support.
 
 
