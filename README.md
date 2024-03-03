@@ -38,7 +38,7 @@ This tutorial will guide you through the process of configuring a simple ticketi
 
 2. Configure Departments
     - In the Admin Panel, go to Agents -> Departments.
-    - Create a department named "System Administrators."
+    - Add a new department named "System Administrators."
       
       ![4](https://github.com/mehmhacimic/osTicket-Configuration/assets/157438082/8b972e76-d199-4645-be82-d168a2f209b2)
       ![3](https://github.com/mehmhacimic/osTicket-Configuration/assets/157438082/bc2fc9b7-50ef-4880-be0d-d3c822ccf2b1)
