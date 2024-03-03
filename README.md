@@ -60,23 +60,26 @@ This tutorial will guide you through the process of configuring a simple ticketi
     - Visit Admin Panel -> Agents -> Add New.
     - Create an agent with the "Admin" role.
     - Create another agent with the ability to "Assign + Reply" only.
-        - Primary Department > Role drop-down menu > Add new > Set permissions to Assign Tickets/Tasks and Reply to Tickets/Tasks only(this is for tutorial variation only, you can set it up to best fit your own needs)
- 
+        - Primary Department > Role > Add new > Set permissions to Assign Tickets/Tasks and Reply to Tickets/Tasks only(this is for tutorial variation only, you can set it up to best fit your own needs)
 
-        **BE SURE TO CREATE THE AGENT EMAIL ADDRESSES USING THE SAME EMAIL DOMAIN YOU CREATED IN STEP 14 OF THE [osTicket Installation Tutorial](https://github.com/mehmhacimic/osTicket-installation)**
+          **BE SURE TO CREATE THE AGENT EMAIL ADDRESSES USING THE SAME EMAIL DOMAIN YOU CREATED IN STEP 14 OF THE [osTicket Installation Tutorial](https://github.com/mehmhacimic/osTicket-installation)**      
+          ![8](https://github.com/mehmhacimic/osTicket-Configuration/assets/157438082/05419a12-ba8c-47c3-91b9-7705937de57b)
+          ![9](https://github.com/mehmhacimic/osTicket-Configuration/assets/157438082/e74c2d22-2aaf-4942-8f2c-e635fa6f841d)
+          ![10](https://github.com/mehmhacimic/osTicket-Configuration/assets/157438082/fea43036-ee48-411f-b3cc-5e391657d5e6)
+          ![11](https://github.com/mehmhacimic/osTicket-Configuration/assets/157438082/a243e47c-474f-4f5f-a3dc-6bf49f63f262)
 
-6. Configure Users (customers)
+7. Configure Users (customers)
     - Go to Agent Panel -> Users -> Add New.
     - Create two users with names of your choice.
 
-7. Configure SLA
+8. Configure SLA
     - In Admin Panel -> Manage -> SLA.
     - Create the following SLAs:
         - Sev-A (1 hour, 24/7)
         - Sev-B (4 hours, 24/7)
         - Sev-C (8 hours, business hours)
 
-8. Configure Help Topics
+9. Configure Help Topics
     - Navigate to Admin Panel -> Manage -> Help Topics.
     - Add the following help topics:
         - Business Critical Outage (Sev-A)
