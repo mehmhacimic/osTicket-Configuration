@@ -15,7 +15,7 @@ This tutorial will guide you through the process of configuring a simple ticketi
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
+- Windows 10</b> (22H2)
 
 <h2>Post-Install Configuration Objectives</h2>
 
