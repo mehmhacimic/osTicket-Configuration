@@ -52,29 +52,29 @@ This tutorial will guide you through the process of configuring a simple ticketi
 
 4. Allow anyone to create tickets
     - Go to Admin Panel -> Settings -> User Settings.
-    - Enable the option to "Allow anyone to create tickets."
+    - Enable the option to "Require registration and login to create tickets."
 
-5. Registration Required
-    - In Admin Panel -> Settings -> User Settings.
-    - Enable the option "Require registration and login to create tickets."
+      ![7](https://github.com/mehmhacimic/osTicket-Configuration/assets/157438082/b9964433-b47b-4087-a7f5-17ac942dfee9)
 
-6. Configure Agents (workers)
+5. Configure Agents (workers)
     - Visit Admin Panel -> Agents -> Add New.
     - Create an agent with the "Admin" role.
     - Create another agent with the ability to "Assign + Reply" only.
 
-7. Configure Users (customers)
+**BE SURE TO CREATE THE EMAIL ADDRESSES USING THE SAME EMAIL DOMAIN YOU CREATED IN STEP 14 OF THE osTicket Installation Tutorial(https://github.com/mehmhacimic/osTicket-installation) ON MY PROFILE**
+
+6. Configure Users (customers)
     - Go to Agent Panel -> Users -> Add New.
     - Create two users with names of your choice.
 
-9. Configure SLA
+7. Configure SLA
     - In Admin Panel -> Manage -> SLA.
     - Create the following SLAs:
         - Sev-A (1 hour, 24/7)
         - Sev-B (4 hours, 24/7)
         - Sev-C (8 hours, business hours)
 
-10. Configure Help Topics
+8. Configure Help Topics
     - Navigate to Admin Panel -> Manage -> Help Topics.
     - Add the following help topics:
         - Business Critical Outage (Sev-A)
