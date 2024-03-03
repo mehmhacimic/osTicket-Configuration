@@ -27,10 +27,10 @@ This tutorial will guide you through the process of configuring a simple ticketi
 
 <h2>Configuration Steps</h2>
 1. Configure Roles
-  - Navigate to the Admin Panel.
-  - Go to Agents -> Roles.
-  - Add a role named "Admin."
-  - Check off all permissions to give the role the ability to do everything.
+    - Navigate to the Admin Panel.
+    - Go to Agents -> Roles.
+    - Add a role named "Admin."
+    - Check off all permissions to give the role the ability to do everything.
  
 ![2](https://github.com/mehmhacimic/osTicket-Configuration/assets/157438082/21e4d30d-1ccf-4414-9c08-3d814c42c120)
 ![1](https://github.com/mehmhacimic/osTicket-Configuration/assets/157438082/204207f6-6906-455a-9720-e87a3792158b)
