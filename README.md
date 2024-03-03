@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Configuration </h1>
-This tutorial will guide you through the process of configuring a simple ticketing system using an example list of tasks. The system includes roles, departments, teams, user settings, agents, users, SLA (Service Level Agreement), and help topics. The configuration is outlined below.<br />
+This tutorial will guide you through the process of configuring a simple ticketing system. The system includes roles, departments, teams, user settings, agents, users, SLAs (Service Level Agreements), and help topics. The configuration is outlined below.<br />
 
 
 <h2>Environments and Technologies Used</h2>
