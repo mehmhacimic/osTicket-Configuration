@@ -60,6 +60,8 @@ This tutorial will guide you through the process of configuring a simple ticketi
     - Visit Admin Panel -> Agents -> Add New.
     - Create an agent with the "Admin" role.
     - Create another agent with the ability to "Assign + Reply" only.
+        - Primary Department > Role drop-down menu > Add new > Set permissions to Assign Tickets/Tasks and Reply to Tickets/Tasks only(this is for tutorial variation only, you can set it up to best fit your own needs)
+ 
 
         **BE SURE TO CREATE THE AGENT EMAIL ADDRESSES USING THE SAME EMAIL DOMAIN YOU CREATED IN STEP 14 OF THE [osTicket Installation Tutorial](https://github.com/mehmhacimic/osTicket-installation)**
 
