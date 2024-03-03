@@ -68,18 +68,21 @@ This tutorial will guide you through the process of configuring a simple ticketi
           ![10](https://github.com/mehmhacimic/osTicket-Configuration/assets/157438082/fea43036-ee48-411f-b3cc-5e391657d5e6)
           ![11](https://github.com/mehmhacimic/osTicket-Configuration/assets/157438082/a243e47c-474f-4f5f-a3dc-6bf49f63f262)
 
-7. Configure Users (customers)
+6. Configure Users (customers)
     - Go to Agent Panel -> Users -> Add New.
     - Create two users with names of your choice.
 
-8. Configure SLA
+      ![12](https://github.com/mehmhacimic/osTicket-Configuration/assets/157438082/9af61ae2-5bb9-45ac-90f7-9b068e4882ea)
+      ![13](https://github.com/mehmhacimic/osTicket-Configuration/assets/157438082/3a78553f-d569-4fb9-90eb-5f17f7cba443)
+
+7. Configure SLA
     - In Admin Panel -> Manage -> SLA.
     - Create the following SLAs:
         - Sev-A (1 hour, 24/7)
         - Sev-B (4 hours, 24/7)
         - Sev-C (8 hours, business hours)
 
-9. Configure Help Topics
+8. Configure Help Topics
     - Navigate to Admin Panel -> Manage -> Help Topics.
     - Add the following help topics:
         - Business Critical Outage (Sev-A)
