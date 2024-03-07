@@ -32,24 +32,23 @@ This tutorial will guide you through the process of configuring a simple ticketi
     - Go to Agents -> Roles.
     - Add a role named "Admin."
     - Check off all permissions to give the role the ability to do everything.
-      
-      ![2](https://github.com/mehmhacimic/osTicket-Configuration/assets/157438082/21e4d30d-1ccf-4414-9c08-3d814c42c120)
-      ![1](https://github.com/mehmhacimic/osTicket-Configuration/assets/157438082/204207f6-6906-455a-9720-e87a3792158b)
 
+      <img width="360" src="https://github.com/mehmhacimic/osTicket-Configuration/assets/157438082/21e4d30d-1ccf-4414-9c08-3d814c42c120">
+      <img width="360" src="https://github.com/mehmhacimic/osTicket-Configuration/assets/157438082/204207f6-6906-455a-9720-e87a3792158b">
+   
 2. **Configure Departments**
     - In the Admin Panel, go to Agents -> Departments.
     - Add a new department named "System Administrators."
-      
-      ![4](https://github.com/mehmhacimic/osTicket-Configuration/assets/157438082/8b972e76-d199-4645-be82-d168a2f209b2)
-      ![3](https://github.com/mehmhacimic/osTicket-Configuration/assets/157438082/bc2fc9b7-50ef-4880-be0d-d3c822ccf2b1)
+
+      <img width="360" src="https://github.com/mehmhacimic/osTicket-Configuration/assets/157438082/8b972e76-d199-4645-be82-d168a2f209b2">
+      <img width="360" src="https://github.com/mehmhacimic/osTicket-Configuration/assets/157438082/bc2fc9b7-50ef-4880-be0d-d3c822ccf2b1">
 
 3. **Configure Teams**
     - In the Admin Panel, navigate to Agents -> Teams.
     - Add two teams: "Level I Support"(if not already there) and "Level II Support."
-      
-      <img width="360" alt="teams" src="https://github.com/mehmhacimic/osTicket-Configuration/assets/157438082/b833a7f6-1540-45a8-a240-a9eb1347b607">
-      
-      <img width="360" alt="teams" src="https://github.com/mehmhacimic/osTicket-Configuration/assets/157438082/4af7ef77-24a9-40d9-ba07-a52fa18a9699">
+
+      <img width="360" src="https://github.com/mehmhacimic/osTicket-Configuration/assets/157438082/b833a7f6-1540-45a8-a240-a9eb1347b607">
+      <img width="360" src="https://github.com/mehmhacimic/osTicket-Configuration/assets/157438082/4af7ef77-24a9-40d9-ba07-a52fa18a9699">
 
 4. **Allow anyone to create tickets**
     - Go to Admin Panel -> Settings -> User Settings.
@@ -64,18 +63,18 @@ This tutorial will guide you through the process of configuring a simple ticketi
         - Primary Department > Role > Add new > Set permissions to Assign Tickets/Tasks and Reply to Tickets/Tasks only(this is for tutorial variation only, you can set it up to best fit your own needs)
 
        ** **BE SURE TO CREATE THE AGENT EMAIL ADDRESSES USING THE SAME EMAIL DOMAIN YOU CREATED IN STEP 14 OF THE [osTicket Installation Tutorial](https://github.com/mehmhacimic/osTicket-installation)** **    
-      
-      ![8](https://github.com/mehmhacimic/osTicket-Configuration/assets/157438082/05419a12-ba8c-47c3-91b9-7705937de57b)
-      ![9](https://github.com/mehmhacimic/osTicket-Configuration/assets/157438082/e74c2d22-2aaf-4942-8f2c-e635fa6f841d)
-      ![10](https://github.com/mehmhacimic/osTicket-Configuration/assets/157438082/fea43036-ee48-411f-b3cc-5e391657d5e6)
-      ![11](https://github.com/mehmhacimic/osTicket-Configuration/assets/157438082/a243e47c-474f-4f5f-a3dc-6bf49f63f262)
+
+      <img width="360" src="https://github.com/mehmhacimic/osTicket-Configuration/assets/157438082/05419a12-ba8c-47c3-91b9-7705937de57b">
+      <img width="360" src="https://github.com/mehmhacimic/osTicket-Configuration/assets/157438082/e74c2d22-2aaf-4942-8f2c-e635fa6f841d">
+      <img width="360" src="https://github.com/mehmhacimic/osTicket-Configuration/assets/157438082/fea43036-ee48-411f-b3cc-5e391657d5e6">
+      <img width="360" src="https://github.com/mehmhacimic/osTicket-Configuration/assets/157438082/a243e47c-474f-4f5f-a3dc-6bf49f63f262">
 
 6. **Configure Users (customers)**
     - Go to Agent Panel -> Users -> Add New.
     - Create two users with names of your choice. 
 
-      ![12](https://github.com/mehmhacimic/osTicket-Configuration/assets/157438082/9af61ae2-5bb9-45ac-90f7-9b068e4882ea)
-      ![13](https://github.com/mehmhacimic/osTicket-Configuration/assets/157438082/3a78553f-d569-4fb9-90eb-5f17f7cba443)
+      <img width="360" src="https://github.com/mehmhacimic/osTicket-Configuration/assets/157438082/9af61ae2-5bb9-45ac-90f7-9b068e4882ea">
+      <img width="360" src="https://github.com/mehmhacimic/osTicket-Configuration/assets/157438082/3a78553f-d569-4fb9-90eb-5f17f7cba443">
 
 7. **Configure SLA**
     - In Admin Panel -> Manage -> SLA.
@@ -84,8 +83,8 @@ This tutorial will guide you through the process of configuring a simple ticketi
         - Sev-B (Grace period: 4 hours, Schedule: 24/7)
         - Sev-C (Grace period: 8 hours, Schedule: M-F, business hours)
      
-      ![14](https://github.com/mehmhacimic/osTicket-Configuration/assets/157438082/879cf766-07a0-43fe-9454-2630c01a8819)
-      ![15](https://github.com/mehmhacimic/osTicket-Configuration/assets/157438082/0298503e-a16b-42c0-aab8-69f756c21794)
+      <img width="360" src="https://github.com/mehmhacimic/osTicket-Configuration/assets/157438082/879cf766-07a0-43fe-9454-2630c01a8819">
+      <img width="360" src="https://github.com/mehmhacimic/osTicket-Configuration/assets/157438082/0298503e-a16b-42c0-aab8-69f756c21794">
 
 8. **Configure Help Topics**
     - Navigate to Admin Panel -> Manage -> Help Topics.
@@ -97,16 +96,12 @@ This tutorial will guide you through the process of configuring a simple ticketi
   
       **  **Priority is not as important for this tutorial, just label each Help Topic whatever you think fits best** **
 
-      ![16](https://github.com/mehmhacimic/osTicket-Configuration/assets/157438082/62e22e26-3704-4b8b-853c-59338fbe8c46)
-      ![17](https://github.com/mehmhacimic/osTicket-Configuration/assets/157438082/509463d7-3e47-45c9-b5b2-bf6e066df030)
-      ![19](https://github.com/mehmhacimic/osTicket-Configuration/assets/157438082/631ef0d7-cea2-4a78-9cf5-7f8b368808eb)
+      <img width="360" src="https://github.com/mehmhacimic/osTicket-Configuration/assets/157438082/62e22e26-3704-4b8b-853c-59338fbe8c46">
+      <img width="360" src="https://github.com/mehmhacimic/osTicket-Configuration/assets/157438082/509463d7-3e47-45c9-b5b2-bf6e066df030">
+      <img width="360" src="https://github.com/mehmhacimic/osTicket-Configuration/assets/157438082/631ef0d7-cea2-4a78-9cf5-7f8b368808eb">
 
 
    
-
-      
-
-
 Congratulations! You have successfully configured a simple ticketing system. Feel free to customize the system further based on your specific requirements. 
 
 If you have any questions or need additional assistance, refer to [osTicket Documentation](https://docs.osticket.com/en/latest/) or reach out to me via [LinkedIn](https://www.linkedin.com/in/mehmedalijahacimic/) for support.
