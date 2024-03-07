@@ -46,15 +46,16 @@ This tutorial will guide you through the process of configuring a simple ticketi
 3. **Configure Teams**
     - In the Admin Panel, navigate to Agents -> Teams.
     - Add two teams: "Level I Support"(if not already there) and "Level II Support."
-  
-      ![5](https://github.com/mehmhacimic/osTicket-Configuration/assets/157438082/b833a7f6-1540-45a8-a240-a9eb1347b607)
-      ![6](https://github.com/mehmhacimic/osTicket-Configuration/assets/157438082/4af7ef77-24a9-40d9-ba07-a52fa18a9699)
+      
+      <img width="360" alt="teams" src="https://github.com/mehmhacimic/osTicket-Configuration/assets/157438082/b833a7f6-1540-45a8-a240-a9eb1347b607">
+      
+      <img width="360" alt="teams" src="https://github.com/mehmhacimic/osTicket-Configuration/assets/157438082/4af7ef77-24a9-40d9-ba07-a52fa18a9699">
 
 4. **Allow anyone to create tickets**
     - Go to Admin Panel -> Settings -> User Settings.
-    - Enable the option to "Require registration and login to create tickets."
+    - Disable the option to "Require registration and login to create tickets."
 
-      ![7](https://github.com/mehmhacimic/osTicket-Configuration/assets/157438082/b9964433-b47b-4087-a7f5-17ac942dfee9)
+      <img width="360" alt="allow tickets" src="https://github.com/mehmhacimic/osTicket-Configuration/assets/157438082/a05b5f74-48f8-46fd-9327-f0d121f4d970">
 
 5. **Configure Agents (employees)**
     - Visit Admin Panel -> Agents -> Add New.
