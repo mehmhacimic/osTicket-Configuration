@@ -65,6 +65,8 @@ This tutorial will guide you through the process of configuring a simple ticketi
        ** **BE SURE TO CREATE THE AGENT EMAIL ADDRESSES USING THE SAME EMAIL DOMAIN YOU CREATED IN STEP 14 OF THE [osTicket Installation Tutorial](https://github.com/mehmhacimic/osTicket-installation)** **    
 
       <img width="360" src="https://github.com/mehmhacimic/osTicket-Configuration/assets/157438082/05419a12-ba8c-47c3-91b9-7705937de57b">
+      <img width="360" src="https://github.com/mehmhacimic/osTicket-Configuration/assets/157438082/33ba80c6-df89-4cec-bdc2-614a0443f6b4">
+      <img width="360" src="https://github.com/mehmhacimic/osTicket-Configuration/assets/157438082/2d314891-e8a1-43ec-a372-189e69fbc77d">
       <img width="360" src="https://github.com/mehmhacimic/osTicket-Configuration/assets/157438082/e74c2d22-2aaf-4942-8f2c-e635fa6f841d">
       <img width="360" src="https://github.com/mehmhacimic/osTicket-Configuration/assets/157438082/fea43036-ee48-411f-b3cc-5e391657d5e6">
       <img width="360" src="https://github.com/mehmhacimic/osTicket-Configuration/assets/157438082/a243e47c-474f-4f5f-a3dc-6bf49f63f262">
