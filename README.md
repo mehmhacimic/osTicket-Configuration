@@ -102,7 +102,7 @@ This tutorial will guide you through the process of configuring a simple ticketi
       <img width="360" src="https://github.com/mehmhacimic/osTicket-Configuration/assets/157438082/509463d7-3e47-45c9-b5b2-bf6e066df030">
       <img width="360" src="https://github.com/mehmhacimic/osTicket-Configuration/assets/157438082/631ef0d7-cea2-4a78-9cf5-7f8b368808eb">
 
-
+---
    
 Congratulations! You have successfully configured a simple ticketing system. Feel free to customize the system further based on your specific requirements. 
 
